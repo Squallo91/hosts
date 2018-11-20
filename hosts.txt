@@ -64,16 +64,18 @@
 127.0.0.1 www.ffbeequip.com
 127.0.0.1 fotka.pl
 127.0.0.1 www.fotka.pl
+127.0.0.1 fotka.com
+127.0.0.1 www.fotka.com
 127.0.0.1 tinder.com
 127.0.0.1 www.tinder.com
 127.0.0.1 youtuberzy.eu
 127.0.0.1 www.youtuberzy.com
-#127.0.0.1 quora.com
-#127.0.0.1 www.quora.com
-#127.0.0.1 reddit.com
-#127.0.0.1 www.reddit.com
-#127.0.0.1 wykop.pl
-#127.0.0.1 www.wykop.pl
+127.0.0.1 quora.com
+127.0.0.1 www.quora.com
+127.0.0.1 reddit.com
+127.0.0.1 www.reddit.com
+127.0.0.1 wykop.pl
+127.0.0.1 www.wykop.pl
 
 #stalkowo-inne
 127.0.0.1	ingram.life
